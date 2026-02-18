@@ -243,7 +243,7 @@ document.getElementById('share-twitter-a').addEventListener('click', (e) => {
                  `総合:${totalN}/${totalM} [${getP(totalN, totalM)}%]\n` +
                  `常設:${normalN}/${normalM} [${getP(normalN, normalM)}%]\n` +
                  `コラボ:${collabN}/${collabM} [${getP(collabN, collabM)}%]\n\n` +
-                 `(旧ver)https://old-eimin.github.io/COUNTER/` +
+                 `(旧ver)https://old-eimin.github.io/counter/` +
                  `#にゃんこ大戦争 #キャラ数カウンター`;
 
     const url = window.location.href;
